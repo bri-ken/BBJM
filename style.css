@@ -196,7 +196,7 @@ html {
   }
   
   .hero h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   color: var(--title-color);
   margin-bottom: 1.5rem;
   font-family: var(--title-font);
@@ -207,7 +207,7 @@ html {
 }
 
 .hero p {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   margin-bottom: 2.5rem;
   color: var(--text-color);
   font-family: var(--text-font);
@@ -802,7 +802,7 @@ html {
   }
 
   .hero h1 {
-    font-size: 2.2rem;
+    font-size: 1.9rem;
   }
 
   .contact-container {
